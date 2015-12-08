@@ -34,5 +34,6 @@ public class Almacen {
     public int getValor2(){
         return valor2;
     }
+    //la tercera es la vencida
     
 }
