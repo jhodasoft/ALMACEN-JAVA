@@ -26,4 +26,8 @@ public class Almacen {
         
     }
     
+    public int getValor(){
+        return valor;
+    }
+    
 }
