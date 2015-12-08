@@ -13,6 +13,7 @@ public class Almacen {
     
     String nombre;
     int valor;
+    int valor2;
 
     /**
      * @param args the command line arguments
@@ -28,6 +29,10 @@ public class Almacen {
     
     public int getValor(){
         return valor;
+    }
+    
+    public int getValor2(){
+        return valor2;
     }
     
 }
